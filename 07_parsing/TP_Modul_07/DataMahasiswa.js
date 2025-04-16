@@ -22,5 +22,4 @@ class DataMahasiswa2311104033 {
     }
 }
 
-// Jalankan method-nya untuk testing
 DataMahasiswa2311104033.ReadJSON();
