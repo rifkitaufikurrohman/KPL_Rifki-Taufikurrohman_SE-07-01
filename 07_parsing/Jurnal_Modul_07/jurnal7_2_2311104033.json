@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "firstName": "Raihan",
+      "lastName": "Wibyanto",
+      "gender": "male",
+      "age": 20,
+      "nim": "2311104001"
+    },
+    {
+      "firstName": "Fajar",
+      "lastName": "Budianto",
+      "gender": "male",
+      "age": 20,
+      "nim": "2311104002"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Zidane",
+      "gender": "male",
+      "age": 20,
+      "nim": "2311104003"
+    }
+  ]
+}
