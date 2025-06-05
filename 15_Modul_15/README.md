@@ -24,7 +24,9 @@ Aplikasi ini dibuat dengan **Node.js** dan menyediakan dua fitur utama: **regist
 ## 📂 Struktur File
 
 ├── app.js # File utama aplikasi
+
 ├── users.json # File penyimpanan data user (dibuat otomatis)
+
 ├── package.json # (Opsional, jika ingin install module tambahan)
 
 
